@@ -1,0 +1,7 @@
+Algoritma Metode Bisection:
+Tentukan fungsi dan interval awal (a dan b).
+Hitung titik tengah ￼c = (a + b)/2.
+Periksa nilai fungsi pada titik tengah.
+Tentukan interval baru berdasarkan perubahan tanda.
+Ulangi hingga mencapai toleransi.
+Tampilkan hasil akar persamaan.
