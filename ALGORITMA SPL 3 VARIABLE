@@ -1,0 +1,19 @@
+1. Mulai.
+2. Import library NumPy untuk membantu operasi perhitungan matriks.
+3. Masukkan koefisien persamaan ke dalam matriks A.
+4. Masukkan nilai konstanta persamaan ke dalam matriks B.
+5. Tentukan jumlah variabel atau ukuran matriks.
+6. Lakukan proses eliminasi Gauss dengan menentukan elemen pivot pada setiap kolom.
+7. Pilih elemen pivot dengan nilai absolut terbesar pada kolom yang sedang diproses.
+8. Tukarkan posisi baris apabila elemen pivot berada pada baris yang berbeda.
+9. Hitung faktor eliminasi dengan membagi elemen di bawah pivot terhadap elemen pivot.
+10. Lakukan operasi baris elementer untuk mengubah seluruh elemen di bawah pivot menjadi nol.
+11. Ulangi proses eliminasi sampai matriks berbentuk segitiga atas.
+12. Lakukan substitusi mundur untuk menghitung nilai variabel z, kemudian y, dan x.
+13. Simpan hasil perhitungan ke dalam variabel X.
+14. Tampilkan nilai x, y, dan z.
+15. Lakukan pemeriksaan dengan mengalikan matriks koefisien awal dengan hasil variabel.
+16. Bandingkan hasil perkalian dengan matriks konstanta awal.
+17. Jika hasilnya sesuai, tampilkan pesan bahwa solusi benar.
+18. Jika hasilnya tidak sesuai, tampilkan pesan bahwa solusi belum sesuai.
+19. Selesai.
